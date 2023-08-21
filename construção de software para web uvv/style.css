@@ -10,9 +10,14 @@ h1 {
 .anos {
     text-align: center;
     display: flex;
-    padding-left: 58vh;
-    word-spacing: 5px;
+    word-spacing: 10px;
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
     color: red;
 }
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
